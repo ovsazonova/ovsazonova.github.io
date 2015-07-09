@@ -1,0 +1,20 @@
+
+.tagline {
+  font-size:15px;
+  color:#352446;
+  display:block;
+  text-align:left;
+}
+
+.intro {
+    font-size:13px;
+    display:block;
+    text-align:left; 
+}
+
+#home-banner {
+    background-color=red;
+    font-size:40px;
+    color=#000000;
+    font-family: Copperplate,Copperplate Gothic Light,fantasy;
+    }
