@@ -46,7 +46,11 @@ a small {
 }
 
 .wrapper {
+<<<<<<< HEAD
   width:960px;
+=======
+  width:600px;
+>>>>>>> e057f77268b2dfc14c9101d99a7be49f0de60335
   margin:0 auto;
 }
 
